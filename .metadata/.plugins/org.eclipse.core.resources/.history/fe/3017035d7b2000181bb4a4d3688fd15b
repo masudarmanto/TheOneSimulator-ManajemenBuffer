@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/DTNConsoleConnection.jar"/>
+	<classpathentry kind="lib" path="lib/ECLA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ArditiA/Downloads/Compressed/akeranen-the-one-d7fe68e/lib/DTNConsoleConnection.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ArditiA/Downloads/Compressed/akeranen-the-one-d7fe68e/lib/ECLA.jar"/>
+	<classpathentry kind="lib" path="D:/Networking/the one 1.6.0/lib/junit-4.12.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
